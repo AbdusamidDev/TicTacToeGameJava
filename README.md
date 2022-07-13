@@ -27,5 +27,5 @@ textField.setText("X Wins");          `
 }                                     `
 ```````````````````````````````````````
 ![image](https://user-images.githubusercontent.com/105371333/178665399-d697e7ac-59d2-4c06-96b3-626ccfb6b2f8.png)
-![image](https://user-images.githubusercontent.com/105371333/178665144-a71012cd-cb16-426e-b5c0-18d27ac87ed5.png)
 ![image](https://user-images.githubusercontent.com/105371333/178665562-a229aac7-65c3-4bcf-8b01-9decbd190ade.png)
+![image](https://user-images.githubusercontent.com/105371333/178665810-72b3233a-d128-48d7-b63c-bdae790fa65c.png)
